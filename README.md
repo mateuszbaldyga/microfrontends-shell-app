@@ -1,4 +1,4 @@
-# Turborepo + Microfrontends + Routing + Shared State (Just an experiment shared state can be a bad idea)
+# Turborepo + Microfrontends + Routing + Shared State (just an experiment, shared state can be a bad architectural decision)
 
 ## What's inside?
 
